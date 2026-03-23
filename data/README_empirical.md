@@ -1,15 +1,15 @@
 # Data Dictionary — corpus_empirical_trials_v2_2026-03-23.xlsx
 
 **Version:** 1.0  
-**Date:** 2026-02-01  
+**Date:** 23-MAR-2026  
 **Trials:** 100  
 **Columns:** 20  
 
 ## Overview
 
-Empirical corpus of binary-outcome randomized controlled trials used to validate the four-metric fragility-robustness framework (SFI, PFI, MFQ, RQ) in Heston (2026). Each row is one trial. All trials have clearly reported 2×2 cell counts from parallel-group designs with fixed follow-up periods.
+Empirical corpus of binary-outcome clinical trials used to validate the four-metric fragility-robustness framework (SFI, PFI, MFQ, RQ) in Heston (2026). Each row is one trial. All trials have clearly reported 2×2 cell counts from parallel-group designs with binary outcomes. 
 
-**Inclusion criteria:** Parallel-group RCT; binary primary outcome; all four cell counts (a, b, c, d) explicitly reported; pharmaceutical or diagnostic intervention.
+**Inclusion criteria:** two group clinical trials with binary primary outcome; all four cell counts (a, b, c, d) able to be derived.
 
 **Exclusion criteria:** Adaptive designs without stable final counts; multi-arm trials not reducible to a pairwise contrast; time-to-event outcomes without binary reduction.
 
@@ -32,7 +32,7 @@ Empirical corpus of binary-outcome randomized controlled trials used to validate
 | SPECIALTY | string | Medical specialty (see codes below) |
 | INTERVENTION_TYPE | string | Intervention category (see codes below) |
 | PHASE | integer | Trial phase: 1, 2, 3, or 4 |
-| EVENT | string | Name of the primary binary outcome as reported in the trial |
+| EVENT | string | Name of the binary outcome analyzed |
 
 ### Raw 2×2 Table
 
@@ -51,9 +51,9 @@ Arm A = treatment/intervention. Arm B = control/comparator.
 
 | Column | Type | Description |
 |--------|------|-------------|
-| FI | integer | Classic Fragility Index — minimum toggle count to flip significance (Walsh et al., 2014) |
+| FI | integer | Fragility Index — minimum toggle count to flip significance (rules defined in Dissertation) |
 | FQ | float | Fragility Quotient = FI / N ∈ [0, 1] |
-| SFI | integer | Standardized Fragility Index — toggle count using larger arm; allocation-invariant |
+| SFI | integer | Standardized Fragility Index — toggle count using larger arm |
 | MFQFI | float | Modified-arm Fragility Quotient = FI / n_mod ∈ [0, 1], where n_mod = arm subjected to toggling |
 | PFIPearson | float | Percent Fragility Index (Pearson χ² fixed-margin path) ∈ [0, 1] |
 
@@ -105,16 +105,14 @@ Arm A = treatment/intervention. Arm B = control/comparator.
 
 ## Notes
 
-- **Event polarity:** EVENT records the primary outcome name as reported. Event direction (favorable vs. unfavorable) was not harmonized in this archive; consult the source trial via DOI.
-- **Zero-cell policy:** Haldane–Anscombe 0.5 continuity correction applied only where required by the specific estimator. Not applied to RQ or raw toggle counts.
-- **MFQFI denominator:** n_mod is the arm with fewer events; if tied, the smaller arm — consistent with the Walsh et al. (2014) toggle rule.
-- **PATTERN110:** The clinically problematic pattern of significant + fragile + weak robustness per the p–fr–nb framework (Heston, 2026). Null displayed as #NULL! in Excel indicates the pattern is absent.
+- **MFQFI denominator:** n_mod is the arm with fewer events; if tied, the smaller arm.  
+- **PATTERN110:** The clinically problematic pattern of significant + fragile + weak robustness.
 
 ---
 
 ## Citation
 
-Heston TF. *A Four-Metric Fragility-Robustness Framework for Binary Clinical Trials.* PhD Dissertation, Global Humanistic University, 2026.
+Heston TF. *A Four-Metric Fragility-Robustness Framework for Binary Clinical Trials.* PhD Dissertation, Global Humanistic University, 2026 [in progress].
 
 ## License
 
