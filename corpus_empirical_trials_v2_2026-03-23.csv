@@ -1,0 +1,101 @@
+﻿DOI,YEAR,SPECIALTY,INTERVENTION_TYPE,PHASE,EVENT,AEvent,ANonEvent,BEvent,BNonEvent,pvalue,FI,FQ,MFQFI,SFI,RQ,PFIPearson,ALLOCATION,N,PATTERN110
+https://doi.org/10.1056/nejmoa1204061,2012,M-endocrinology,P-Small Molecule Drug,3,fracture,9,544,28,546,.002322,6,.005324,.01085,8,.0324943372,.0116911003,1.0379746835443,1127,1
+https://doi.org/10.1056/nejmoa1607948,2016,M-endocrinology,P-Biologic,3,fracture,16,3305,59,3263,1E-06,23,.003462,.006926,29,.0129425591,.0078612114,1.00030111412225,6643,1
+https://doi.org/10.1016/j.mayocp.2016.10.009,2017,M-endocrinology,P-Biologic,3,fracture,30,681,4,684,5E-06,12,.008578,.017442,18,.0363703064,.0202342055,1.03343023255814,1399,1
+https://doi.org/10.1056/nejmoa0809493,2009,M-endocrinology,P-Biologic,3,fracture,86,3653,264,3403,0,140,.018904,.037443,140,.048988,.039323168,1.01963457867467,7406,1
+https://doi.org/10.1016/s0140-6736(25)01375-3,2025,M-cardiology,P-peptide,3,MACE,569,8261,701,8100,.000105,65,.003686,.00736,65,.015218,.0075780515,1.00329508010453,17631,1
+https://doi.org/10.1161/circulationaha.124.072011,2025,M-cardiology,P-Small Molecule Drug,3,MACE,910,1262,1028,1646,.015618,15,.003095,.006906,18,.034155,.006719,1.23112338858195,4846,1
+https://doi.org/10.1056/NEJMoa2416779,2025,M-infection_vaccines,P-Vaccine,3,got sick ILI,57,9134,87,9110,.015425,6,.000326,.000653,7,.003258,.00071,1.000652812534,18388,1
+https://doi.org/10.7326/0003-4819-146-5-200703060-00005,2007,M-endocrinology,P-Small Molecule Drug,3,fracture,42,1204,18,1268,.001499,9,.003555,.006998,9,.0197060563,.0078585161,1.03210272873194,2532,1
+https://doi.org/10.1001/jama.2016.11136,2016,M-endocrinology,P-Biologic,3,fracture,4,820,30,791,3E-06,13,.007903,.015777,13,.0316863296,.0179359167,1.00365408038977,1645,1
+https://doi.org/10.1007/s00198-016-3736-y,2017,M-endocrinology,P-Small Molecule Drug,3,fracture,10,320,29,298,.001566,7,.010654,.021212,7,.0583807677,.0222437719,1.00917431192661,657,1
+https://doi.org/10.1056/NEJMoa1808082,2018,M-endocrinology,P-Small Molecule Drug,3,fragility fx,190,810,122,878,3.4E-05,34,.017,.034,34,.068,.0361949113,1,2000,1
+https://doi.org/10.1056/nejmoa1708322,2017,M-endocrinology,P-Small Molecule Drug,3,fracture,127,1919,243,1804,0,76,.018568,.037146,84,.0566379681,.0390683292,1.00048875855327,4093,1
+https://doi.org/10.1161/circulationaha.124.072055,2025,M-cardiology,P-Small Molecule Drug,3,MACE,907,1703,1049,1525,8E-06,88,.016975,.033716,88,.060024,.033636,1.01398601398601,5184,1
+https://doi.org/10.1161/circulationaha.123.066604,2025,M-cardiology,P-Small Molecule Drug,3,MACE/Revasc,33,1236,60,1190,.003421,9,.003573,.007092,9,.021994,.007267,1.0152,2519,1
+https://doi.org/10.1007/s00198-020-05463-4,2020,M-endocrinology,P-Biologic,4,fracture,16,599,40,585,.001473,8,.006452,.013008,10,.0379812695,.051613,1.01626016260163,1240,1
+https://doi.org/10.1001/jamacardio.2025.3460,2025,M-cardiology,P-Vaccine,4,hospitalization,3735,162483,3962,162258,.008861,57,.000171,.000343,58,.001365,.000343,1.0000120323912,332438,1
+https://doi.org/10.1001/jama.2025.15405,2025,M-cardiology,P-Vaccine,4,hospitalization,715,64927,794,64840,.043181,3,2.3E-05,4.6E-05,3,.001205,5.2E-05,1.00012188804583,131276,1
+https://doi.org/10.1056/NEJMoa2509810,2025,M-pulmonary,P-Vaccine,4,hospitalization for RSV-related disease,3,65639,18,65616,.000854,5,3.8E-05,7.6E-05,5,.000229,9.2E-05,1.00012188804583,131276,1
+https://doi.org/10.7326/annals-24-02701,2025,M-infection_vaccines,P-Vaccine,1,urticaria,6,26,1,61,.005818,2,.021277,.032258,2,.153916,.053323,1.9375,94,0
+https://doi.org/10.1161/circulationaha.124.073050,2025,M-cardiology,P-Small Molecule Drug,2,patency,73,4,73,6,.745866,4,.025641,.051948,7,.023997,.052868,1.02597402597403,156,0
+https://doi.org/10.1161/circulationaha.125.076575,2025,M-cardiology,P-Small Molecule Drug,2,death/worsening HF,133,1085,150,1033,.181164,10,.004165,.00821,10,.017597,.008196,1.02958579881657,2401,0
+https://doi.org/10.1093/oncolo/oyaf080,2025,M-oncology,P-Small Molecule Drug,2,objective response,5,18,14,28,.400577,3,.046154,.130435,7,.106036,.105444,1.82608695652174,65,0
+https://doi.org/10.1007/s00125-023-06053-9,2025,M-endocrinology,P-peptide,2,5% wt loss survodutide vs semaglutide,28,21,19,31,.071111,1,.010101,.02,1,.191409,.005313,1.02040816326531,99,0
+https://doi.org/10.1111/dom.16534,2025,M-endocrinology,P-Small Molecule Drug,2,5% BW loss,6,38,27,7,0,19,.24359,.431818,19,.646943,.429472,1.29411764705882,78,0
+https://doi.org/10.1136/bmj-2025-084314,2025,M-autoimmunity,P-Biologic,2,response,25,5,3,15,9E-06,8,.166667,.444444,11,.625,.354918,1.66666666666667,48,0
+https://doi.org/10.1136/annrheumdis-2021-221865,2022,M-autoimmunity,P-Biologic,2,remission,35,7,14,14,.003868,3,.042857,.107143,4,.32,.1096345903,1.5,70,0
+https://doi.org/10.1016/s1470-2045(25)00339-0,2025,M-oncology,D-Molecular,2,survival events,53,26,43,40,.055787,1,.006173,.012048,1,.1527206219,.0014408983,1.05063291139241,162,0
+https://doi.org/10.1016/s0140-6736(23)01163-7,2025,M-endocrinology,P-peptide,2,adverse event,21,10,22,9,1,8,.129032,.258065,8,.032258,.197252,1,62,0
+https://doi.org/10.1001/jamapsychiatry.2025.2332,2025,M-endocrinology,P-peptide,2,Low A1c target,60,14,13,56,0,33,.230769,.478261,35,.6216440902,.4578799369,1.07246376811594,143,0
+https://doi.org/10.1016/j.cgh.2024.02.022,2025,M-hepatology,P-peptide,2,HFF reduction by 50%,14,2,0,10,1.2E-05,5,.192308,.5,8,.828402,.455505,1.6,26,0
+https://doi.org/10.1016/s1474-4422(25)00173-5,2025,M-oncology,P-Small Molecule Drug,2,TEAE,26,94,10,31,.828333,6,.037267,.146341,13,.020678,.09148,2.92682926829268,161,0
+https://doi.org/10.1002/art.10262,2002,M-autoimmunity,P-Small Molecule Drug,2,relapse,29,13,24,11,1,8,.103896,.228571,8,.004723,.2013326088,1.2,77,0
+https://doi.org/10.7326/0003-4819-146-9-200705010-00004,2007,M-autoimmunity,P-Biologic,2,no relapse,12,16,8,8,.75677,5,.113636,.3125,7,.066116,.2169817862,1.75,44,0
+https://doi.org/10.1016/s2352-3026(25)00144-9,2025,M-oncology,P-Biologic,2,remission,27,9,41,11,.796849,7,.079545,.194444,7,.03719,.135006,1.44444444444444,88,0
+https://doi.org/10.1001/jamanetworkopen.2025.17834,2025,M-infection_vaccines,P-Small Molecule Drug,2,recurrent infection,17,22,24,18,.269249,4,.049383,.102564,4,.135345,.082263,1.07692307692308,81,0
+https://doi.org/10.3390/medsci13040273,2025,S-cardiovascular,P-Small Molecule Drug,2,QOL,18,11,14,11,.782661,6,.111111,.24,6,.060357,.201027,1.16,54,0
+https://doi.org/10.1001/jamanetworkopen.2025.27769,2025,M-oncology,P-Biologic,2,response,9,21,11,39,.437154,5,.0625,.166667,6,.075,.108747,1.66666666666667,80,0
+https://doi.org/10.1002/art.40037,2017,M-autoimmunity,P-Biologic,2,relapse free,2,9,6,9,.394508,2,.076923,.181818,4,.213018,.1375709619,1.36363636363636,26,0
+https://doi.org/10.1001/jamanetworkopen.2025.5308,2025,M-neurology,P-Small Molecule Drug,2,recanalization,64,35,46,49,.029554,2,.010309,.021053,2,.162185,.022767,1.04210526315789,194,0
+https://doi.org/10.1016/s2468-1253(23)00068-7,2025,M-hepatology,P-peptide,2,improvement in liver fibrosis,5,42,7,17,.090277,1,.014085,.021277,1,.16584,.000897,1.95833333333333,71,0
+https://doi.org/10.1186/s13052-025-01956-2,2025,M-neurology,P-Small Molecule Drug,2,Sz reduction,23,47,7,51,.006475,3,.023438,.051724,5,.206055,.059931,1.20689655172414,128,0
+https://doi.org/10.1056/nejmoa2028395,2025,M-hepatology,P-peptide,2,NASH resolution,48,34,14,66,0,20,.123457,.25,23,.410303,.260622,1.025,162,0
+https://doi.org/10.1136/bmjopen-2025-106024,2025,M-OBGYN,P-Biologic,2,Ongoing Pregnancy ITT,10,30,6,34,.402406,4,.05,.1,4,.1,.075305,1,80,0
+https://doi.org/10.1056/nejmoa2502242,2025,M-hepatology,P-Biologic,2,reduction in fibrosis,8,53,10,47,.610943,5,.042373,.081967,5,.04424,.08543,1.07017543859649,118,0
+https://doi.org/10.1161/strokeaha.125.051602,2025,M-neurology,P-Small Molecule Drug,2,adherence,26,12,31,2,.007851,3,.042254,.078947,3,.253918,.069284,1.15151515151515,71,0
+https://doi.org/10.1016/s0140-6736(18)31773-2,2025,M-endocrinology,P-peptide,2,wt loss 5% on treatment,94,9,31,105,0,81,.338912,.595588,81,.671627,.546195,1.32038834951456,239,0
+https://doi.org/10.1056/nejmoa2503867,2025,M-neurology,P-Biologic,2,functional independence,147,131,120,152,.0411,1,.001818,.003676,1,.08759,.004057,1.02205882352941,550,0
+https://doi.org/10.1111/1756-185X.13149,2017,M-autoimmunity,P-Small Molecule Drug,2,disease control,6,1,4,1,1,4,.333333,.8,6,.055556,.333333,1.4,12,0
+https://doi.org/10.1016/s1470-2045(25)00133-0,2025,M-oncology,P-Small Molecule Drug,2,PFS,72,64,61,74,.225077,7,.02583,.051852,7,.077559,.041479,1.00740740740741,271,0
+https://doi.org/10.1111/dom.16167,2025,M-endocrinology,P-peptide,2,"15% wt loss (males, 3.6 survodutide)",4,15,2,19,.397609,2,.05,.095238,2,.115,.106034,1.10526315789474,40,0
+https://doi.org/10.1056/evidoa2500173,2025,M-endocrinology,P-peptide,2,Composite Improvement,13,23,0,36,6.5E-05,5,.069444,.138889,5,.361111,.183415,1,72,0
+https://doi.org/10.1016/s1473-3099(25)00255-5,2025,M-infection_vaccines,P-peptide,2,cure,19,6,22,3,.46349,5,.1,.2,5,.12,.092979,1,50,0
+https://doi.org/10.1001/jamapediatrics.2025.2181,2025,M-Peds,P-Small Molecule Drug,2,adequate sedation,9,10,20,9,.227032,2,.041667,.105263,3,.206597,.064021,1.52631578947368,48,0
+https://doi.org/10.1016/S2665-9913(23)00101-7,2023,M-autoimmunity,P-Biologic,2,remission,19,8,6,19,.00105,5,.096154,.2,6,.463018,.191621718,1.08,52,0
+https://doi.org/10.1016/S0140-6736(16)00560-2,2016,M-autoimmunity,P-Biologic,2,remission,17,3,4,6,.03013,1,.033333,.1,2,.4,.0907919119,2,30,0
+https://doi.org/10.1038/s41392-025-02487-2,2025,M-oncology,P-Biologic,2,adverse events,8,0,5,3,.2,2,.125,.25,2,.375,0,1,16,0
+https://doi.org/10.1056/nejmoa067312,2007,M-endocrinology,P-Small Molecule Drug,3,fracture,310,2273,92,2730,0,199,.036818,.070517,199,.0872435756,.073267,1.09252806813782,5405,0
+https://doi.org/10.1056/NEJMoa2413449,2025,M-autoimmunity,P-Small Molecule Drug,3,remission,97,112,33,79,.004098,6,.018692,.053571,12,.153997,.984424,1.86607142857143,321,0
+https://doi.org/10.1001/jamainternmed.2025.2570,2025,M-infection_vaccines,P-Small Molecule Drug,3,recovery,54,1389,49,1499,.42258,11,.003678,.007106,11,.005761,.007301,1.07276507276507,2991,0
+https://doi.org/10.1056/nejmoa2502082,2025,M-endocrinology,P-peptide,3,wt loss of 5%,756,148,93,209,0,144,.119403,.476821,420,.39669,.35204,2.99337748344371,1206,0
+https://doi.org/10.3389/fimmu.2025.1588190,2025,M-infection_vaccines,P-Vaccine,3,infection,24,1583,19,1535,.542089,8,.002531,.005148,11,.002707,.005368,1.03410553410553,3161,0
+https://doi.org/10.1016/s2352-3026(25)00256-x,2025,M-oncology,P-Biologic,3,blurred vision,63,83,13,126,0,31,.108772,.223022,38,.3377777778,.2351276015,1.05035971223022,285,0
+https://doi.org/10.1212/wnl.0000000000214386,2025,M-neurology,D-MRI_CT_XR_US,3,Recurrent ICH,7,6,80,220,.052196,1,.003195,.076923,2,.0432789964,.0036700411,23.0769230769231,313,0
+https://doi.org/10.1080/21645515.2025.2579335,2025,M-infection_vaccines,P-Vaccine,3,immune response,111,192,8,155,0,37,.079399,.226994,80,.2886220045,.21309598,1.85889570552147,466,0
+https://doi.org/10.1056/nejmoa2502081,2025,M-endocrinology,P-peptide,3,Wt loss > 5%,1937,171,222,483,0,409,.145396,.580142,1186,.453741,.426681,2.99007092198582,2813,0
+https://doi.org/10.1007/s00125-025-06446-y,2025,M-endocrinology,P-Small Molecule Drug,3,hypoglycemic episodes,2,30,10,22,.022138,1,.015625,.03125,1,.25,.05875,1,64,0
+https://doi.org/10.1111/myc.70122,2025,M-infection_vaccines,P-Small Molecule Drug,3,death,9,18,10,18,1,7,.127273,.259259,8,.0238016529,.2274970849,1.03703703703704,55,0
+https://doi.org/10.1001/jamainternmed.2025.3599,2025,M-endocrinology,P-peptide,3,Wt loss > 5%,107,20,11,53,0,35,.183246,.546875,68,.597681,.467569,1.984375,191,0
+https://doi.org/10.1016/s2213-8587(25)00164-0,2025,M-endocrinology,P-peptide,3,Wt loss > 5%,96,4,12,36,0,30,.202703,.625,55,.6223520818,.4883793892,2.08333333333333,148,0
+https://doi.org/10.1016/s2213-8587(25)00225-6,2025,M-endocrinology,P-peptide,3,Wt loss > 5%,251,40,33,62,0,41,.106218,.431579,116,.3823458348,.3065566259,3.06315789473684,386,0
+https://doi.org/10.1056/nejmoa074941,2007,M-endocrinology,P-Small Molecule Drug,3,hip fx,33,1029,23,1042,.178517,5,.002351,.004695,5,.0094771833,.0041313237,1.00282485875706,2127,0
+https://doi.org/10.1161/circulationaha.125.074545,2025,M-cardiology,P-peptide,3,MACE,143,1153,158,1142,.372872,17,.006549,.013117,19,.011199,.013433,1.00308641975309,2596,0
+https://doi.org/10.1007/s00198-008-0816-7,2009,M-endocrinology,P-Small Molecule Drug,3,fracture,25,228,51,188,.000458,12,.02439,.047431,12,.1144821204,.0506398979,1.05857740585774,492,0
+https://doi.org/10.1016/s2665-9913(25)00071-2,2025,M-autoimmunity,P-Vaccine,3,responder rate,110,15,91,30,.012855,4,.01626,.033058,3,.1279,.03129,1.03305785123967,246,0
+https://doi.org/10.1038/s41598-025-23693-6,2025,M-infection_vaccines,P-Small Molecule Drug,3,colonization,59,51,59,36,.2576,5,.02439,.052632,7,.0842355741,.0507173208,1.15789473684211,205,0
+https://doi.org/10.1136/annrheumdis-2017-211878,2018,M-autoimmunity,P-Biologic,3,relapse,8,10,11,7,.505085,4,.111111,.222222,4,.166667,.1594895019,1,36,0
+https://doi.org/10.1111/liv.70399,2025,M-hepatology,P-Hormone,3,improvement,60,81,13,62,.000157,9,.041667,.12,18,.2286522634,.1085245138,1.88,216,0
+https://doi.org/10.1001/jamanetworkopen.2025.19095,2025,M-infection_vaccines,P-Vaccine,3,persistent infection,8,8502,15,8464,.150593,3,.000177,.000353,3,.000829,.000277,1.00365609152023,16989,0
+https://doi.org/10.1136/annrheumdis-2013-203586,2014,M-autoimmunity,P-Biologic,3,remission,20,14,18,18,.482343,7,.1,.194444,7,.088163,.1451398181,1.05882352941176,70,0
+https://doi.org/10.1056/nejmoa0809003,2009,M-endocrinology,P-Biologic,3,fracture,38,693,53,683,.1295,4,.002727,.005472,5,.0200270528,.0046594919,1.00683994528044,1467,0
+https://doi.org/10.1161/CIRCULATIONAHA.105.592733,2006,M-nephrology,P-Small Molecule Drug,3,death,333,4127,299,4153,.180755,15,.001683,.003369,16,.0075028445,.0031554779,1.00179694519317,8912,0
+https://doi.org/10.1056/NEJMoa1613849,2017,M-autoimmunity,P-Biologic,3,remission,56,44,7,43,1E-06,12,.08,.24,28,.37333,.2243989958,2,150,0
+https://doi.org/10.1186/s12883-025-04496-8,2025,M-nephrology,P-Small Molecule Drug,3,relapse event,11,9,1,19,.001248,4,.1,.2,4,.5,.215974,1,40,0
+https://doi.org/10.1016/s0140-6736(24)02808-3,2025,M-endocrinology,P-peptide,3,AE,9,83,11,85,.814571,6,.031915,.065217,9,.01675,.071378,1.04347826086957,188,0
+https://doi.org/10.1161/circulationaha.124.073233,2025,M-cardiology,P-Biologic,3,15% lowering LDL,6,3,1,3,.265734, , , ,3,.35503,.145265,2.25,13,0
+https://doi.org/10.1016/s2213-8587(25)00226-8,2025,M-endocrinology,P-peptide,3,Wt loss > 5%,862,88,63,108,0,84,.074933,.491228,434,.2786857981,.2467076867,5.55555555555556,1121,0
+https://doi.org/10.1056/nejmoa2500969,2025,M-endocrinology,P-peptide,3,Wt loss > 5%,152,40,28,62,0,33,.117021,.366667,68,.4176852271,.313118499,2.13333333333333,282,0
+https://doi.org/10.3322/caac.70042,2025,M-oncology,P-Small Molecule Drug,3,Death: Fuzuloparib vs Placebo,68,201,32,104,.716482,10,.024691,.073529,23,.015607,.063728,1.97794117647059,405,0
+https://doi.org/10.1161/circulationaha.124.072679,2025,M-cardiology,P-peptide,3,improvement,173,191,129,238,.000727,19,.025992,.051771,19,.123774,.052385,1.00824175824176,731,0
+https://doi.org/10.1371/journal.pone.0309907,2025,M-endocrinology,P-Small Molecule Drug,3,hypoglycemia: glimepiride vs liraglutide,833,387,375,782,0,372,.1565,.321521,391,.358421,.31824,1.05445116681072,2377,0
+https://doi.org/10.1038/s41598-025-26495-y,2025,M-cardiology,P-Biologic,4,LDL reduction < 1.8 mmol @ 4 wks,222,28,59,191,0,148,.294,.592,148,.652,.565024,1,500,0
+https://doi.org/10.1186/s12916-025-04477-1,2025,M-cardiology,P-Small Molecule Drug,4,bleeding,21,242,12,265,.104644,2,.003704,.00722,2,.036502,.003891,1.0532319391635,540,0
+https://doi.org/10.2147/dddt.s557688,2025,M-hepatology,P-Small Molecule Drug,4,cognitive recovery,108,9,94,23,.012437,4,.017094,.034188,4,.119658,.031613,1,234,0
+https://doi.org/10.1186/s13756-025-01651-1,2025,M-infection_vaccines,P-Novel-Other,4,CRE acquisition,1,98,5,93,.118338,1,.005076,.010101,1,.0384276051,.0083857242,1.01020408163265,197,0
+https://doi.org/10.1136/bmj-2025-085632,2025,M-cardiology,P-Small Molecule Drug,4,cardioversion,111,67,83,89,.009783,6,.017143,.034884,6,.140996,.036866,1.03488372093023,350,0
+https://doi.org/10.1161/CIRCULATIONAHA.110.964171,2011,M-cardiology,P-Small Molecule Drug,4,death,956,6820,1817,13829,.134178,17,.000726,.002186,32,.0060415529,.0017523031,2.01208847736626,23422,0
+https://doi.org/10.1093/rheumatology/kead387,2023,M-autoimmunity,P-Biologic,4,remission,18,3,10,9,.037805,1,.025,.052632,1,.33,.0463294893,1.10526315789474,40,0
+https://doi.org/10.1161/circulationaha.124.072758,2025,M-cardiology,P-Small Molecule Drug,4,VTE - embolism,5,84,17,72,.01086,3,.016854,.033708,3,.134831,.038133,1,178,0
+https://doi.org/10.1001/jamanetworkopen.2024.1545,2025,M-endocrinology,P-Small Molecule Drug,4,10% increase of TcPo2,25,2,13,15,.000307,7,.127273,.25,7,.461488,.2173,1.03703703703704,55,0
+https://doi.org/10.1001/jamasurg.2023.2930,2025,M-endocrinology,P-Small Molecule Drug,4,AE,28,7,20,15,.039426,1,.014286,.028571,1,.228571,.01107,1,70,0
